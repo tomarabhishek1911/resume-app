@@ -22,7 +22,7 @@ export const projectData = [
     sentences: [
       "EcoManage is an intuitive waste management website designed to promote sustainable waste practices and streamline waste disposal processes. Developed using HTML, EcoManage provides a simple yet effective platform for users to learn about proper waste segregation, recycling tips, and local disposal guidelines. The website features a clean and straightforward layout, ensuring that users can easily access important information and resources related to waste management. Through EcoManage, users can find educational content, community initiatives, and tips for reducing waste, all aimed at fostering an environmentally conscious mindset. By offering a user-friendly interface and valuable information, EcoManage empowers individuals and communities to contribute to a cleaner and healthier environment.",
           ],
-    link: "https://github.com/tomarabhishek1911/waste_management/blob/master/index.html",
+    link: "https://tomarabhishek1911.github.io/waste_management/",
   },
   
   
