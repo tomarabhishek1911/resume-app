@@ -2,7 +2,6 @@
 import './HomePage.css';
 import githubIcon from  '../../assets/github.png';
 import leetcodeIcon from  '../../assets/leetcode.png';
-import image from '../../assets/IMG_20221221_231736.jpg';
 import linkedin from '../../assets/linkedin.png';
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
@@ -105,12 +104,6 @@ through live projects such as a fully functional laundry website and a restauran
            </div>
 
            <div className='homepage_right'>
-                <motion.img 
-                initial={{x:100, opacity:0}}
-                animate={{x:0, opacity:1}}
-                transition={{duration:1, delay:1}}
-                src={} 
-                alt='GIF' />
            </div>
         </div>
     )
